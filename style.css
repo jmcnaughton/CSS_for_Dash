@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #f4f4f8;
+    color: #333;
+}
+
+.navbar {
+    background-color: #204051; /* Dark blue shade */
+}
+
+.nav-link {
+    color: #f4f4f8;
+    font-size: 16px;
+}
+
+.tab {
+    background-color: #f4f4f8;
+    border: none;
+}
+
+.tab--selected {
+    border-bottom: 2px solid #204051;
+}
+
+.graph {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
